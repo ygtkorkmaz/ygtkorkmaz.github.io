@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Yigit Korkmaz</title>
+    <link>https://example.com/tag/deep-learning/</link>
+      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>asdasd</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu8a2c45237b2c54ab3de23ba7e31bebf7_29064_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://example.com/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>RGBD Segmentation using Kinect Camera</title>
+      <link>https://example.com/project/rgbdsegmentation/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/rgbdsegmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Planning by implementing APF</title>
+      <link>https://example.com/project/pathplanning/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pathplanning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coursera Algorithms Pt. 1</title>
+      <link>https://example.com/project/courseraalgo/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/courseraalgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaxSumNP</title>
+      <link>https://example.com/project/maxsumnp/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/maxsumnp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
